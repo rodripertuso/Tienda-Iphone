@@ -943,21 +943,7 @@ tbody tr td a:hover{
   color: #001a2e;
 }
 
-/*
-.gotopbtn{
-  position: fixed;
-  width: 50px;
-  height: 50px;
-  background: black;
-  bottom: 40px;
-  right: 50px;
-  border-radius: 50%;
-  text-decoration: none;
-  text-align: center;
-  line-height: 50px;
-  color: white;
-  font-size: 22px;
-}
+
 
 /*------------
     14. Footer 2 css here
